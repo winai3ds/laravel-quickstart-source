@@ -1,0 +1,6 @@
+.idea
+dockers/web/db
+dockers/web/db-test
+dockers/web/lb/logs
+dockers/web/web1/logs
+dockers/web/web2/logs
